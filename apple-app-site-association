@@ -1,0 +1,14 @@
+{
+    applinks: {
+        details: [
+            {
+                appIDs: ["KQ4VV7ZTE5.jp.coconefk.purenista"],
+                components: [
+               		{
+                	/: "*"
+                    }
+                ] 
+            }
+        ]
+    }
+}
